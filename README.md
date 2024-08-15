@@ -1,16 +1,16 @@
-## Hi there 👋
+## Oi, sou o Carlos Eduardo 👋
 
-<!--
-**cesilva375/cesilva375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Soft Skills
 
-Here are some ideas to get you started:
+gosto de aprender coisas novas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hard skills
+
+HTML,CSS,
+
+<div style ="display inline_block">
+<img src="https://github.com/user-attachments/assets/32b000be-c49f-49b8-bb64-8b5f0617ea03"/>
+<img src="https://github.com/user-attachments/assets/cfb20cec-3925-441c-8b54-832843ca10c2"/>
+<img src="https://github.com/user-attachments/assets/14b362f7-d74c-45f2-a56d-553e4cdf39c1"/>
+
+</div>
